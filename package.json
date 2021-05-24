@@ -1,6 +1,6 @@
 {
   "name": "mini-api-promisify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "小程序promise化",
   "main": "./lib/index.js",
   "scripts": {
