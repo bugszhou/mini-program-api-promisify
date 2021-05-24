@@ -1,0 +1,24 @@
+{
+  "name": "mini-program-api-promisify",
+  "version": "0.0.1",
+  "description": "小程序promise化",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/mini-program-api-promisify.git"
+  },
+  "keywords": [
+    "mini",
+    "program",
+    "promise"
+  ],
+  "author": "yiri.zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/mini-program-api-promisify/issues"
+  },
+  "homepage": "https://github.com/bugszhou/mini-program-api-promisify#readme"
+}
