@@ -17,8 +17,15 @@
   ],
   "author": "yiri.zhou",
   "license": "MIT",
+  "types": "typings/index.d.ts",
   "bugs": {
     "url": "https://github.com/bugszhou/mini-program-api-promisify/issues"
   },
-  "homepage": "https://github.com/bugszhou/mini-program-api-promisify#readme"
+  "homepage": "https://github.com/bugszhou/mini-program-api-promisify#readme",
+  "dependencies": {
+    "weapp-api-typings": "^1.1.7"
+  },
+  "peerDependencies": {
+    "weapp-api-typings": ">=1.1.7"
+  }
 }
